@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HARIHARAN179
+- iam studying AIML enginner (2nd year) in SRM university
 - 👀 I’m interested in HTML program 
-- 🌱 I’m currently learning C and HTML
+- 🌱 I’m currently learning java basics 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through mail id : haran0170@gmail.com
 
